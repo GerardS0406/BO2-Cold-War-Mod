@@ -1,5 +1,4 @@
 # BO2-Cold-War-Mod
--
 *Not recommended for servers*
 https://www.youtube.com/watch?v=pYCM9nEmEP8
 
