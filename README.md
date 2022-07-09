@@ -1,4 +1,12 @@
 # BO2-Cold-War-Mod
+**Repository Outline**
+-
+**You can use Custom Field Upgrades folder to create new field upgrades!**
+Inside you will find a template to create a field upgrade. (You can make per maps field upgrades if you want. Just put it in the mapname folder.)
+Make sure you use an available shader not already being used by the mod!
+
+**Mod Outline**
+-
 *Not recommended for servers*
 https://www.youtube.com/watch?v=pYCM9nEmEP8
 
